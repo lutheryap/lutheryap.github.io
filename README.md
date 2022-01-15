@@ -1,6 +1,3 @@
----
-title: Luther Yap
---- 
 
 ## Welcome
 
