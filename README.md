@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/lutheryap/lutheryap.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! I am a PhD candidate at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Working Papers
 
-### Markdown
+#### Build to Order: Endogenous Supply in Centralized Mechanisms
+(with Andrew Ferdowsian and Kwok-Hao Lee)
+How should the supply of public housing be optimally curated? Queuing mechanisms in the literature treat the supply of goods as exogenous. However, in practice, designers can often control the inflow of goods as well. We study a dynamic matching model based on the Singaporean housing allocation process. We show that endogenous supply radically changes the nature of the optimal mechanism. In this mechanism, a key feature is that under-demanded housing is overproduced relative to the static benchmark. Though competition leads to a decrease in efficiency when supply is exogenous, competition instead improves matching when supply is endogenous. Competition can be artificially generated through increasing the thickness of the market by batching applications. We show that doing so is a key feature of the optimal mechanism when the planner places a high weight on match quality.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Draft](https://app.scholarsite.io/andrew-ferdowsian/articles/build-to-order-endogenous-supply-in-centralized-mechanisms)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lutheryap/lutheryap.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
