@@ -1,7 +1,5 @@
 ---
 title: Luther Yap
-layout: template
-filename: index.md 
 --- 
 
 ## Welcome
