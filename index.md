@@ -3,7 +3,7 @@ title: Luther Yap
 layout: default
 ---
 
-[Research](./research.html)| Teaching
+[Research](./research.html) 
 
 ## Welcome
 
