@@ -1,6 +1,6 @@
 ---
 title: Luther Yap
-layout: default
+layout: template
 ---
 
 ## Welcome
