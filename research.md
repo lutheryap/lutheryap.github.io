@@ -31,8 +31,6 @@ How should the supply of public housing be optimally curated? Queuing mechanisms
 ## Works in Progress
 “Valid t-ratio in Overidentified Two-Stage Least Squares Instrumental Variables Designs”. With David Lee, Justin McCrary, Marcelo Moreira, and Jack Porter.
  
-“Bias-Aware Inference in Regression Kink Designs”. With Michal Kolesar.
- 
 “Identification for Dynamic Logit Models with Market Share Data”. With Kwok-Hao Lee
  
 “Multiway Clustering for Multiway Assignment Designs”.
