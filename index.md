@@ -17,10 +17,15 @@ Researchers and policy makers are often interested in the external validity of a
 
 [Draft](https://lutheryap.github.io/files/TEBounds (4).pdf)
 
-### Design-Based Justification for Multiway Clustering
+### Variance Estimation with Clustered Sampling and Clustered Assignment on Different Dimensions
 
 When running OLS regressions, economists often report standard errors that are clustered on units. Apart from a model-based justification, it is often difficult to justify why one should cluster on some dimensions, such as state, and not others, such as gender. This paper provides a design-based framework where there is clustered sampling on one dimension and clustered assignment to treatment on a different dimension. Clustered sampling occurs when clusters are first sampled from a population of clusters, and units are sampled from the sampled clusters. Clustered assignment occurs when the probability that a unit is assigned treatment differs between clusters. Since assignment and sampling occur on different dimensions, it appears intuitive to use multiway clustering procedures like that proposed by Cameron, Gelbach and Miller (2011) (CGM). This paper argues that the CGM estimator is in general conservative, and there are conditions where we do not need to cluster. 
 
+### Design-Based Justification for Clustering with Multiway Assignment
+
+In causal inference, it is often not obvious what standard errors are researcher should report, and what dimensions a researcher should cluster the standard errors by, if at all. This paper provides a design-based perspective to when researchers should cluster when doing inference on the sample average treatment effect (ATE). By using the potential outcomes model, the researcher can be agnostic about the data generating process for the outcome and only has to consider randomness in the assignment mechanism to treatment, which is often better understood. The practical takeaway is that, when we are interested in the sample ATE, the only consideration on whether to cluster and which dimensions to cluster on is determined by assignment. Notably, this does not depend on the structure of the error term as is commonly argued in literature. Cluster on a particular dimension if and only if it affects assignment. Standard errors are conservative if we cluster on more dimensions than we have to. I illustrate the findings with a simple simulation and show consistency and asymptotic normality of standard estimators in this design-based framework.
+
+[Draft](https://lutheryap.github.io/files/mwclus_assignment (5).pdf)
 
 ### Market Design, Subsidies, and Supply: Interventions for Efficient and Equitable Public Housing
 (with [Andrew Ferdowsian](https://app.scholarsite.io/andrew-ferdowsian) and [Kwok-Hao Lee](https://kwokhao.io/))
@@ -41,8 +46,7 @@ How should the supply of public housing be optimally curated? Queuing mechanisms
 “Bias-Aware Inference in Regression Kink Designs”. With Michal Kolesar.
  
 “Identification for Dynamic Logit Models with Market Share Data”. With Kwok-Hao Lee
- 
-“Multiway Clustering for Multiway Assignment Designs”.
+
 
 
 
