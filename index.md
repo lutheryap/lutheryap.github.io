@@ -6,20 +6,16 @@ layout: template
 # Luther Yap
 ## Welcome
 
-Hi! I am a PhD candidate at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Jan2022.pdf). Email: lyap@princeton.edu
+Hi! I am a PhD candidate at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Jun2022.pdf). Email: lyap@princeton.edu
 
 
 ## Working Papers
 
 ### Sensitivity Analysis of Policy Relevant Treatment Effects to Failures of Monotonicity
 
-Researchers and policy makers are often interested in the external validity of a study's conclusions. An object of interest that addresses concerns of external validity is the policy-relevant treatment effect (PRTE), the average treatment effect of people who respond to the instrument in a different policy environment. This paper provides a method for bounding PRTE without functional forms or monotonicity, and gives a novel interpretation for PRTE without monotonicity as treatment effects of various subpopulations. The bounding framework uses the proportion of defiers relative to compliers as a sensitivity parameter and formulates the problem as a linear program. This method can thus be used to assess the sensitivity of various treatment effects to violations of the monotonicity assumption when using instrumental variables to make inferences on causal effects for various subpopulations. Bounds are sharp for binary outcomes and can be consistently estimated. I illustrate this method with an empirical application where defiers are present. The framework can be extended to multivalued instruments, and to parameterizing the problem using distributions to obtain quantile objects and sharp bounds. The method has many applications in applied work, including constructing nonparametric bounds on causal objects in counterfactual environments, allowing the researcher to flexibly incorporate restrictions, and testing model specification.
+The policy-relevant treatment effect (PRTE), understood as the local average treatment effect (LATE) in a different policy environment, addresses concerns of external validity for a study’s conclusions. This paper provides a method for bounding PRTE without functional form or monotonicity, and interprets the PRTE as treatment effects of various subpopulations. The bounding framework uses the proportion of defiers relative to compliers as a sensitivity parameter and yields a convex identified set. The method is illustrated in an example where the same sex instrument is used to find the effect of having a third child on labor force participation.
 
-[Draft](https://lutheryap.github.io/files/TEBounds (4).pdf)
-
-### Variance Estimation with Clustered Sampling and Clustered Assignment on Different Dimensions
-
-When running OLS regressions, economists often report standard errors that are clustered on units. Apart from a model-based justification, it is often difficult to justify why one should cluster on some dimensions, such as state, and not others, such as gender. This paper provides a design-based framework where there is clustered sampling on one dimension and clustered assignment to treatment on a different dimension. Clustered sampling occurs when clusters are first sampled from a population of clusters, and units are sampled from the sampled clusters. Clustered assignment occurs when the probability that a unit is assigned treatment differs between clusters. Since assignment and sampling occur on different dimensions, it appears intuitive to use multiway clustering procedures like that proposed by Cameron, Gelbach and Miller (2011) (CGM). This paper argues that the CGM estimator is in general conservative, and there are conditions where we do not need to cluster. 
+[Draft](https://lutheryap.github.io/files/TEBounds (8).pdf)
 
 ### Design-Based Justification for Clustering with Multiway Assignment
 
@@ -41,8 +37,7 @@ How should the supply of public housing be optimally curated? Queuing mechanisms
 
 ## Works in Progress
 “Valid t-ratio in Overidentified Two-Stage Least Squares Instrumental Variables Designs”. With David Lee, Justin McCrary, Marcelo Moreira, and Jack Porter.
- 
-“Identification for Dynamic Logit Models with Market Share Data”. With Kwok-Hao Lee
+
 
 
 
