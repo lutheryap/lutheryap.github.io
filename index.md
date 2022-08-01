@@ -15,7 +15,7 @@ Hi! I am a PhD candidate at Princeton University. My research interests are econ
 
 The policy-relevant treatment effect (PRTE), understood as the local average treatment effect (LATE) in a different policy environment, addresses concerns of external validity for a study’s conclusions. This paper provides a method for bounding PRTE without functional form or monotonicity, and interprets the PRTE as treatment effects of various subpopulations. The bounding framework uses the proportion of defiers relative to compliers as a sensitivity parameter and yields a convex identified set. The method is illustrated in an example where the same sex instrument is used to find the effect of having a third child on labor force participation.
 
-[Draft](https://lutheryap.github.io/files/TEBounds (8).pdf)
+
 
 ### Design-Based Justification for Clustering with Multiway Assignment
 
