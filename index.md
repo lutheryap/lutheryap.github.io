@@ -13,9 +13,9 @@ Hi! I am a PhD candidate at Princeton University. My research interests are econ
 
 ### Sensitivity Analysis of Policy Relevant Treatment Effects to Failures of Monotonicity
 
-The policy-relevant treatment effect (PRTE), understood as the local average treatment effect (LATE) in a different policy environment, addresses concerns of external validity for a study’s conclusions. This paper provides a method for bounding PRTE without functional form or monotonicity, and interprets the PRTE as treatment effects of various subpopulations. The bounding framework uses the proportion of defiers relative to compliers as a sensitivity parameter and yields a convex identified set. The method is illustrated in an example where the same sex instrument is used to find the effect of having a third child on labor force participation.
+This paper proposes a method in an environment with heterogeneous treatment eﬀects to bound policy relevant treatment parameters (PRTP) without the monotonicity assumption that the instrumental variable works in the same direction for all individuals. While the procedure applies to all PRTP objects, this paper provides a detailed analysis for local average treatment eﬀects in counterfactual environments (LATE*) that does not yet have a procedure for sensitivity analysis to monotonicity violations. The bounding framework uses the proportion of deﬁers relative to compliers as a sensitivity parameter and yields an identiﬁed set that is an interval. The bounds are sharp for binary outcomes. The method is illustrated in an example where the same sex instrument is used to ﬁnd the eﬀect of having a third child on labor force participation. I ﬁnd that bounds are informative only for small violations in monotonicity.
 
-
+[Draft](https://dataspace.princeton.edu/handle/88435/dsp015d86p341p)
 
 ### Design-Based Justification for Clustering with Multiway Assignment
 
@@ -26,6 +26,8 @@ In causal inference, it is often not obvious what standard errors researchers sh
 (with [Andrew Ferdowsian](https://app.scholarsite.io/andrew-ferdowsian) and [Kwok-Hao Lee](https://kwokhao.io/))
 
 We study how public housing can be allocated more efficiently and equitably, comparing market design interventions to subsidies and changing the mix of apartments available. To this end, we combine tools from Urban Economics and Industrial Organization to formulate a dynamic choice model over housing lotteries. Our model is estimated on novel public housing data from the Singaporean mechanism, in which bigger apartments are sold at larger markdowns from their resale price to ensure affordability. We find that each rich household receives an average of 1.5 times the amount of subsidy that poor households receive, precisely because they opt for these larger apartments. Then, we simulate outcomes for households applying for apartments under various counterfactual mechanisms. We find that: first, if the social planner does not expand supply, it is difficult to reduce wait times in this mechanism. Second, to raise match rates for the poor, the government should subsidize them and increase prices on the largest apartments; in this policy regime, subsidies are redistributed 1-for-1 from the rich to the poor. Third, by prioritizing the poor, the government can improve their “match quality” without worsening that of the rich. Finally, building more, smaller apartments (in lieu of larger ones) results in congestion, raising wait times for the rich and lowering match rates for the poor. 
+
+[Draft](https://kwokhao.io/papers/btoPaper-IO.pdf)
 
 
 ### Build to Order: Endogenous Supply in Centralized Mechanisms
