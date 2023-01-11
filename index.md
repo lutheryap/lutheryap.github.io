@@ -17,6 +17,13 @@ This paper proposes a method in an environment with heterogeneous treatment eﬀ
 
 [Draft](https://dataspace.princeton.edu/handle/88435/dsp015d86p341p)
 
+### General Conditions for Valid Inference in Multi-Way Clustering
+
+This paper proves a new central limit theorem for a sample that exhibits multi-way dependence and heterogeneity across clusters. Statistical inference for situations where there is both multi-way dependence and cluster heterogeneity has thus far been an open issue. Existing theory for multi-way clustering inference requires identical distributions across clusters (implied by the so-called separate exchangeability assumption). Yet no such homogeneity requirement is needed in the existing theory for one-way clustering. The new result therefore theoretically justifies the view that multi-way clustering is a more robust version of one-way clustering, consistent with applied practice. The result is applied to linear regression, where it is shown that a standard plug-in variance estimator is valid for inference.
+
+[Draft](https://arxiv.org/abs/2301.03805)
+
+
 ### Design-Based Justification for Clustering with Multiway Assignment
 
 In causal inference, it is often not obvious what standard errors researchers should report, and what dimensions they should cluster the standard errors by, if at all. This paper provides a design-based perspective to when researchers should cluster when doing inference on the sample average treatment effect (ATE). By using the potential outcomes model, the researcher only has to consider randomness in the assignment mechanism to treatment, and can be agnostic about the data generating process for the outcome. This is advantageous when the process generating assignment is better understood than the process generating outcomes. The practical takeaway is that, when we are interested in the sample ATE, the only consideration on whether to cluster and which dimensions to cluster on is determined by assignment. Notably, this does not depend on the structure of the error term as is commonly argued in literature. Cluster on a particular dimension if and only if it affects assignment. Standard errors are conservative if we cluster on more dimensions than we have to. I illustrate the findings with a simple simulation and show consistency and asymptotic normality of standard estimators in this design-based framework.
