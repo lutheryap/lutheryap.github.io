@@ -10,7 +10,7 @@ Hi! I am a PhD candidate at Princeton University. My research interests are econ
 
 
 ## Working Papers
-### Design-Based Justification for Clustering with Multiway Assignment
+### Design-Based Multi-Way Clustering
 
 [Draft](https://arxiv.org/abs/2309.01658)
 
