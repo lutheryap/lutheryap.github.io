@@ -21,7 +21,7 @@ Hi! I am a PhD candidate at Princeton University. My research interests are econ
 
 
 ### Two-Stage Difference in Differences
-(with [John Gardner](https://jrgcmu.github.io/),[Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/))
+(with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/))
 
 [Draft](https://neilthakral.github.io/files/papers/2sdd.pdf)
 
