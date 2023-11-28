@@ -34,7 +34,7 @@ General Conditions for Valid Inference in Multi-Way Clustering
 [Draft](https://arxiv.org/abs/2301.03805)
 
 
-Two-Stage Difference in Differences
+Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/))
 [Draft](https://neilthakral.github.io/files/papers/2sdd.pdf)
 
