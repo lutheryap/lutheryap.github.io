@@ -6,7 +6,7 @@ layout: template
 # Luther Yap
 ## Welcome
 
-Hi! I am a PhD candidate at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Dec2022.pdf). Email: lyap@princeton.edu
+Hi! I am a PhD candidate at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Nov2023.pdf). Email: lyap@princeton.edu
 
 
 ## Working Papers
