@@ -10,6 +10,18 @@ Hi! I am a PhD candidate at Princeton University. My research interests are econ
 
 
 ## Working Papers
+What to do when you can't use '1.96' Confidence Intervals for IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
+[Draft](https://www.nber.org/papers/w31893)
+
+
+Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
+[Draft](https://arxiv.org/abs/2311.15952)
+
+
+Valid Wald Inference with Many Weak Instruments
+[Draft](https://arxiv.org/abs/2311.15932)
+
+
 Sensitivity Analysis for Linear Estimands (with [Jacob Dorn](https://jacobdorn.info/)) 
 [Draft](https://arxiv.org/abs/2309.06305)
 
