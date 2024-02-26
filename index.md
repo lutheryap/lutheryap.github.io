@@ -43,7 +43,7 @@ Sensitivity Analysis of Policy Relevant Treatment Effects to Failures of Monoton
 [Draft](https://dataspace.princeton.edu/handle/88435/dsp015d86p341p)
 
 
-Public Housing at Scale: Dynamics, Policies, and Spillovers
+The Dynamic Allocation of Public Housing: Policy and Spillovers
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/))
 [Draft](https://kwokhao.io/papers/btoPaper-IO.pdf)
 
