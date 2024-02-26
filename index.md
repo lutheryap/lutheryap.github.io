@@ -30,7 +30,7 @@ Design-Based Multi-Way Clustering
 [Draft](https://arxiv.org/abs/2309.01658)
 
 
-General Conditions for Valid Inference in Multi-Way Clustering 
+Asymptotic Theory for Two-Way Clustering 
 [Draft](https://arxiv.org/abs/2301.03805)
 
 
