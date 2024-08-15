@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Luther Yap's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Luther Yap"
 description              : &description "PhD Candidate"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lutheryap/lyap.github.io"
+repository               : "lutheryap/lutheryap.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -28,11 +28,11 @@ author:
   location         : #"Earth"
   employer         : "Princeton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "lyap@princeton.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=YMq8d7oAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
