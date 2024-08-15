@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-Hi! I am a PhD candidate in Economics at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Nov2023.pdf). 
+Hi! I am a PhD candidate in Economics at Princeton University. My research interests are econometrics and applied microeconomics. 
 
 
 ## Working Papers
