@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Luther Yap"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-Hi! I am a PhD candidate at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Nov2023.pdf). Email: lyap@princeton.edu
+Hi! I am a PhD candidate in Economics at Princeton University. My research interests are econometrics and applied microeconomics. You can view my CV [here](https://lutheryap.github.io/files/CV_Nov2023.pdf). 
 
 
 ## Working Papers
