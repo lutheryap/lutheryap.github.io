@@ -12,7 +12,7 @@ title                    : "Luther Yap's Homepage"
 title_separator          : "-"
 name                     : &name "Luther Yap"
 description              : &description "PhD Candidate"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lutheryap.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lutheryap/lutheryap.github.io"
 
