@@ -13,6 +13,8 @@ Hi! I am a PhD candidate in Economics at Princeton University. My research inter
 
 
 ## Working Papers
+Inference with Many Weak Instruments and Heterogeneity [Draft](https://arxiv.org/abs/2408.11193)
+
 What to do when you can't use '1.96' Confidence Intervals for IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
 [Draft](https://www.nber.org/papers/w31893)
 
