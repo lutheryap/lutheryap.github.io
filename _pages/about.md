@@ -40,7 +40,7 @@ Two-Stage Differences in Differences
 
 
 ### Sensitivity Analysis
-Sensitivity Analysis for Linear Estimands (with [Jacob Dorn](https://jacobdorn.info/)) 
+Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) 
 [Draft](https://arxiv.org/abs/2309.06305)
 
 Sensitivity Analysis of Policy Relevant Treatment Effects to Failures of Monotonicity
