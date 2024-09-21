@@ -21,7 +21,7 @@ repository               : "lutheryap/lutheryap.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_LY.png"
+  avatar           : "profile_LY.jpg"
   name             : "Luther Yap"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
