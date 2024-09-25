@@ -12,13 +12,13 @@ redirect_from:
 Hi! I am a PhD candidate in Economics at Princeton University and I'll be on the academic job market in 2024-25. My research interests are econometrics and applied microeconomics. 
 
 ## Job Market Paper
-Inference with Many Weak Instruments and Heterogeneity [Draft](https://arxiv.org/abs/2408.11193)
+Inference with Many Weak Instruments and Heterogeneity [arXiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet)
 
 ## Working Papers
 
 ### Weak Instruments
 What to do when you can't use '1.96' Confidence Intervals for IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
-[Draft](https://www.nber.org/papers/w31893)
+[NBER Draft](https://www.nber.org/papers/w31893) [Supplement](https://irs.princeton.edu/davidlee-supplementVTF)
 
 Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
 [Draft](https://arxiv.org/abs/2311.15952)
