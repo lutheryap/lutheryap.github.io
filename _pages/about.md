@@ -12,7 +12,7 @@ redirect_from:
 Hi! I am a PhD candidate in Economics at Princeton University and I'll be on the academic job market in 2024-25. My research interests are econometrics and applied microeconomics. 
 
 ## Job Market Paper
-Inference with Many Weak Instruments and Heterogeneity [arXiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet)
+Inference with Many Weak Instruments and Heterogeneity [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [arXiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet)
 
 ## Working Papers
 
