@@ -44,8 +44,7 @@ Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.
 [Draft](https://arxiv.org/abs/2309.06305)
 
 Sensitivity Analysis of Policy Relevant Treatment Effects to Failures of Monotonicity
-[Latest Draft](https://lutheryap.github.io/files/TEBounds_june2024_wp.pdf) [2022 Draft](https://dataspace.princeton.edu/handle/88435/dsp015d86p341p)
-
+[Latest Draft](https://lutheryap.github.io/files/TEBounds_june2024_wp.pdf) 
 
 ### Public Housing
 The Dynamic Allocation of Public Housing: Policy and Spillovers
