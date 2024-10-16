@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /files/cv_public.pdf
+    url: /files/cv.pdf
     
   #- title: "Publications"
   #  url: /publications/
