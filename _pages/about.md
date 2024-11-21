@@ -31,8 +31,9 @@ Valid Wald Inference with Many Weak Instruments
 Asymptotic Theory for Two-Way Clustering 
 [Draft](https://arxiv.org/abs/2301.03805)
 
-Design-Based Multi-Way Clustering 
-[Draft](https://arxiv.org/abs/2309.01658)
+Clustering with Potential Multidimensionality: Inference and Practice
+(with [Ruonan Xu](https://xuruonan.weebly.com/))
+[Draft](https://arxiv.org/abs/2411.13372)
 
 Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/))
