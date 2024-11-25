@@ -30,6 +30,7 @@ Valid Wald Inference with Many Weak Instruments
 ### Clustering and Regression
 Asymptotic Theory for Two-Way Clustering 
 [Draft](https://arxiv.org/abs/2301.03805)
+(Revise & Resubmit at Journal of Econometrics)
 
 Clustering with Potential Multidimensionality: Inference and Practice
 (with [Ruonan Xu](https://xuruonan.weebly.com/))
