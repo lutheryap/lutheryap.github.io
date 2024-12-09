@@ -52,8 +52,8 @@ Sensitivity Analysis of Policy Relevant Treatment Effects to Failures of Monoton
 ### Public Housing
 The Dynamic Allocation of Public Housing: Policy and Spillovers
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/))
-[Draft](https://kwokhao.io/papers/btoPaper-IO.pdf)
+[Draft](https://www.econometricsociety.org/regional-activities/conference-papers/view/269/63)
 
 Build to Order: Endogenous Supply in Centralized Mechanisms
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/))
-[Draft](https://ferdowsian.net/papers/BuildToOrderEndogenousSupply.pdf)
+[Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
