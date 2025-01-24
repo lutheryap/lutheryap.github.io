@@ -34,7 +34,7 @@ Asymptotic Theory for Two-Way Clustering
 
 Clustering with Potential Multidimensionality: Inference and Practice
 (with [Ruonan Xu](https://xuruonan.weebly.com/))
-[Draft](https://arxiv.org/abs/2411.13372)
+[Draft](https://xuruonan.weebly.com/uploads/1/2/7/2/127219610/two_way_cluster_finite_pop_full.pdf)
 
 Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/))
