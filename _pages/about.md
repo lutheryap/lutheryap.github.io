@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-Hi! I am a PhD candidate in Economics at Princeton University and I'll be on the academic job market in 2024-25. My research interest is econometrics. 
+Hi! I am a PhD candidate in Economics at Princeton University. My research interest is econometrics. 
 
 ## Job Market Paper
 Inference with Many Weak Instruments and Heterogeneity [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet)
