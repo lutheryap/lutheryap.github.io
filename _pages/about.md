@@ -9,10 +9,19 @@ redirect_from:
 
 ## Welcome
 
-Hi! I am a PhD candidate in Economics at Princeton University. My research interest is econometrics. 
+Hi! I am a PhD candidate in Economics at Princeton University. My research interest is econometrics. I will be going to the Department of Economics at the National University of Singapore (NUS), first as a Presidential Fellow from July 2025 and then as an Assistant Professor from July 2027.
 
 ## Job Market Paper
 Inference with Many Weak Instruments and Heterogeneity [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet)
+
+## Accepted Papers
+Asymptotic Theory for Two-Way Clustering 
+[Draft](https://arxiv.org/abs/2301.03805)
+(Accepted at Journal of Econometrics)
+
+Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity
+[Latest Draft](https://lutheryap.github.io/files/TEBounds_june2024_wp.pdf) 
+(Accepted at Journal of Applied Econometrics)
 
 ## Working Papers
 
@@ -28,10 +37,6 @@ Valid Wald Inference with Many Weak Instruments
 
 
 ### Clustering and Regression
-Asymptotic Theory for Two-Way Clustering 
-[Draft](https://arxiv.org/abs/2301.03805)
-(Revise & Resubmit at Journal of Econometrics)
-
 Clustering with Potential Multidimensionality: Inference and Practice
 (with [Ruonan Xu](https://xuruonan.weebly.com/))
 [Draft](https://xuruonan.weebly.com/uploads/1/2/7/2/127219610/two_way_cluster_finite_pop_full.pdf)
@@ -45,9 +50,6 @@ Two-Stage Differences in Differences
 Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) 
 [Draft](https://arxiv.org/abs/2309.06305)
 
-Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity
-[Latest Draft](https://lutheryap.github.io/files/TEBounds_june2024_wp.pdf) 
-(Provisionally Accepted at Journal of Applied Econometrics)
 
 ### Public Housing
 The Dynamic Allocation of Public Housing: Policy and Spillovers
