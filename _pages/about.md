@@ -16,11 +16,11 @@ Inference with Many Weak Instruments and Heterogeneity [Latest Draft](https://lu
 
 ## Accepted Papers
 Asymptotic Theory for Two-Way Clustering 
-[Draft](https://arxiv.org/abs/2301.03805)
+[Latest Draft](https://lutheryap.github.io/files/mwclus_asymptotics_mar2025.pdf) [arXiv](https://arxiv.org/abs/2301.03805)
 (Accepted at Journal of Econometrics)
 
 Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity
-[Latest Draft](https://lutheryap.github.io/files/TEBounds_june2024_wp.pdf) 
+[Latest Draft](https://lutheryap.github.io/files/TEBounds_feb2025.pdf) 
 (Accepted at Journal of Applied Econometrics)
 
 ## Working Papers
