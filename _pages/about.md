@@ -20,8 +20,8 @@ Build to Order: Endogenous Supply in Centralized Mechanisms
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (April 2025)
 [Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
 
-Clustering with Potential Multidimensionality: Inference and Practice (January 2025)
-(with [Ruonan Xu](https://xuruonan.weebly.com/))
+Clustering with Potential Multidimensionality: Inference and Practice 
+(with [Ruonan Xu](https://xuruonan.weebly.com/)) (January 2025)
 [Draft](https://xuruonan.weebly.com/uploads/1/2/7/2/127219610/two_way_cluster_finite_pop_full.pdf)
 
 Two-Stage Differences in Differences
