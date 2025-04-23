@@ -11,51 +11,45 @@ redirect_from:
 
 Hi! I am a PhD candidate in Economics at Princeton University. My research interest is econometrics. I will be going to the Department of Economics at the National University of Singapore (NUS), first as a Presidential Fellow from July 2025 and then as an Assistant Professor from July 2027.
 
-## Job Market Paper
-Inference with Many Weak Instruments and Heterogeneity [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet)
-
-## Accepted Papers
-Asymptotic Theory for Two-Way Clustering 
-[Latest Draft](https://lutheryap.github.io/files/mwclus_asymptotics_mar2025.pdf) [arXiv](https://arxiv.org/abs/2301.03805)
-(Accepted at Journal of Econometrics)
-
-Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity
-[Latest Draft](https://lutheryap.github.io/files/TEBounds_feb2025.pdf) 
-(Accepted at Journal of Applied Econometrics)
 
 ## Working Papers
 
-### Weak Instruments
-What to do when you can't use '1.96' Confidence Intervals for IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
-[NBER Draft](https://www.nber.org/papers/w31893) [Supplement](https://irs.princeton.edu/davidlee-supplementVTF)
+Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet)
 
-Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/))
-[Draft](https://arxiv.org/abs/2311.15952)
+Build to Order: Endogenous Supply in Centralized Mechanisms
+(with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (April 2025)
+[Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
 
-Valid Wald Inference with Many Weak Instruments
-[Draft](https://arxiv.org/abs/2311.15932)
-
-
-### Clustering and Regression
-Clustering with Potential Multidimensionality: Inference and Practice
+Clustering with Potential Multidimensionality: Inference and Practice (January 2025)
 (with [Ruonan Xu](https://xuruonan.weebly.com/))
 [Draft](https://xuruonan.weebly.com/uploads/1/2/7/2/127219610/two_way_cluster_finite_pop_full.pdf)
 
 Two-Stage Differences in Differences
-(with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/))
+(with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (May 2024)
 [Draft](https://neilthakral.github.io/files/papers/2sdd.pdf)
 
-
-### Sensitivity Analysis
-Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) 
+Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (April 2024)
 [Draft](https://arxiv.org/abs/2309.06305)
 
-
-### Public Housing
 The Dynamic Allocation of Public Housing: Policy and Spillovers
-(with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/))
+(with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (January 2024)
 [Draft](https://www.econometricsociety.org/regional-activities/conference-papers/view/269/63)
 
-Build to Order: Endogenous Supply in Centralized Mechanisms
-(with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/))
-[Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
+What to do when you can't use '1.96' Confidence Intervals for IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/)) (November 2023)
+[NBER Draft](https://www.nber.org/papers/w31893) [Supplement](https://irs.princeton.edu/davidlee-supplementVTF)
+
+Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/)) (November 2023)
+[Draft](https://arxiv.org/abs/2311.15952)
+
+Valid Wald Inference with Many Weak Instruments (November 2023)
+[Draft](https://arxiv.org/abs/2311.15932)
+
+
+## Accepted Papers
+Asymptotic Theory for Two-Way Clustering (March 2025)
+[Latest Draft](https://lutheryap.github.io/files/mwclus_asymptotics_mar2025.pdf) [arXiv](https://arxiv.org/abs/2301.03805)
+(Accepted at Journal of Econometrics)
+
+Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity (February 2025)
+[Latest Draft](https://lutheryap.github.io/files/TEBounds_feb2025.pdf) 
+(Accepted at Journal of Applied Econometrics)
