@@ -15,11 +15,11 @@ Hi! I am a PhD candidate in Economics at Princeton University. My research inter
 ## Working Papers
 
 Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (May 2025)
-[Draft](https://github.com/lutheryap/LInfty)
+[Draft](https://github.com/lutheryap/files/LInfty)
 
 Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (April 2025)
-[Draft](https://github.com/lutheryap/2sdd)
+[Draft](https://github.com/lutheryap/files/2sdd)
 
 Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet)
 
