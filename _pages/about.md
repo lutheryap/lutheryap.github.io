@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome
 
-I'm currently a Presidential Fellow at the Department of Economics in the National University of Singapore (NUS) and will be an Assistant Professor at NUS from July 2027. My research interest is broadly in Econometrics, Applied Microeconomics and Statistics. 
+I'm currently a Presidential Fellow at the Department of Economics in the National University of Singapore (NUS) and will be an Assistant Professor at NUS from July 2027. My research interest is broadly in Econometrics and Applied Microeconomics. 
 
 ## Working Papers
 
