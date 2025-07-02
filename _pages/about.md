@@ -45,10 +45,10 @@ Valid Wald Inference with Many Weak Instruments (November 2023)
 
 
 ## Publications
-Asymptotic Theory for Two-Way Clustering (May 2025) [Publisher's Version](https://www.sciencedirect.com/science/article/abs/pii/S0304407625000557)
+Asymptotic Theory for Two-Way Clustering (May 2025) [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304407625000557)
 [Latest Draft](https://lutheryap.github.io/files/mwclus_asymptotics_mar2025.pdf) [arXiv](https://arxiv.org/abs/2301.03805) Journal of Econometrics, 249, 106001.
 
 
-Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity (May 2025) [Publisher's Version](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.3132)
+Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity (May 2025) [Published Version](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.3132)
 [Latest Draft](https://lutheryap.github.io/files/TEBounds_feb2025.pdf) 
 Journal of Applied Econometrics.
