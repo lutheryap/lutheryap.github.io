@@ -24,7 +24,7 @@ Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (April 2025)
 [Draft](https://lutheryap.github.io/files/2sdd.pdf)
 
-Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet)
+Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [arxiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet)
 
 Clustering with Potential Multidimensionality: Inference and Practice 
 (with [Ruonan Xu](https://xuruonan.weebly.com/)) (January 2025)
