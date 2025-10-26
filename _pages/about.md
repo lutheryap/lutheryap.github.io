@@ -40,8 +40,7 @@ What to do when you can't use '1.96' Confidence Intervals for IV (with [David S.
 Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/)) (November 2023)
 [Draft](https://arxiv.org/abs/2311.15952)
 
-Valid Wald Inference with Many Weak Instruments (November 2023)
-[Draft](https://arxiv.org/abs/2311.15932)
+[//]: # (Valid Wald Inference with Many Weak Instruments (November 2023) [Draft](https://arxiv.org/abs/2311.15932)) 
 
 
 ## Publications
