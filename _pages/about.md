@@ -13,22 +13,22 @@ I'm currently a Presidential Fellow at the Department of Economics in the Nation
 
 ## Working Papers
 
+Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (November 2025)
+[Draft](https://lutheryap.github.io/files/manuscript_linear_estimators.pdf) [arXiv (Sep 2023)](https://arxiv.org/abs/2309.06305)
+
+Clustering with Potential Multidimensionality: Inference and Practice 
+(with [Ruonan Xu](https://xuruonan.weebly.com/)) (October 2025)
+[Draft](https://lutheryap.github.io/files/two_way_cluster_finite_pop_all.pdf) [arxiv (Nov 2024)](https://arxiv.org/abs/2411.13372)
+
 Build to Order: Endogenous Supply in Centralized Mechanisms
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (June 2025)
 [Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
-
-Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (May 2025)
-[Draft](https://lutheryap.github.io/files/LInfty.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
 
 Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (April 2025)
 [Draft](https://lutheryap.github.io/files/2sdd.pdf)
 
-Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [arxiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv](https://arxiv.org/abs/2408.11193)
-
-Clustering with Potential Multidimensionality: Inference and Practice 
-(with [Ruonan Xu](https://xuruonan.weebly.com/)) (January 2025)
-[Draft](https://xuruonan.weebly.com/uploads/1/2/7/2/127219610/two_way_cluster_finite_pop_full.pdf)
+Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv (Aug 2024)](https://arxiv.org/abs/2408.11193)
 
 The Dynamic Allocation of Public Housing: Policy and Spillovers
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (January 2024)
