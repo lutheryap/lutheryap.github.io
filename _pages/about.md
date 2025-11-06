@@ -18,13 +18,13 @@ Build to Order: Endogenous Supply in Centralized Mechanisms
 [Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
 
 Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (May 2025)
-[Draft](https://lutheryap.github.io/files/LInfty.pdf)
+[Draft](https://lutheryap.github.io/files/LInfty.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
 
 Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (April 2025)
 [Draft](https://lutheryap.github.io/files/2sdd.pdf)
 
-Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [arxiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet)
+Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [arxiv](https://arxiv.org/abs/2408.11193) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv](https://arxiv.org/abs/2408.11193)
 
 Clustering with Potential Multidimensionality: Inference and Practice 
 (with [Ruonan Xu](https://xuruonan.weebly.com/)) (January 2025)
@@ -49,5 +49,5 @@ Asymptotic Theory for Two-Way Clustering (May 2025) [Published Version](https://
 
 
 Sensitivity Analysis of Policy Relevant Treatment Parameters to Violations of Monotonicity (May 2025) [Published Version](https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.3132)
-[Latest Draft](https://lutheryap.github.io/files/TEBounds_feb2025.pdf) 
+[Latest Draft](https://lutheryap.github.io/files/TEBounds_feb2025.pdf) [First Version (Aug 2022)](https://irs.princeton.edu/publications/working-papers/655)
 Journal of Applied Econometrics.
