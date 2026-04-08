@@ -47,10 +47,10 @@ Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](ht
 
 ## Publications
 Brodeur, A., Mikola, D., Cook, N. et al. (2026) Reproducibility and robustness of economics and political science research. **Nature** 652, 151–156. https://doi.org/10.1038/s41586-026-10251-x [Published Version](https://www.nature.com/articles/s41586-026-10251-x) 
-(as part of a large-scale collaboration)
+(I was a part of a large-scale collaboration)
 
 Center for AI Safety., Scale AI. & HLE Contributors Consortium. (2026) A benchmark of expert-level academic questions to assess AI capabilities. **Nature** 649, 1139–1146. https://doi.org/10.1038/s41586-025-09962-4 [Published Version](https://www.nature.com/articles/s41586-025-09962-4)
-(as part of a large-scale collaboration)
+(I was a part of a large-scale collaboration)
 
 Yap, L. (2025) Asymptotic Theory for Two-Way Clustering. **Journal of Econometrics**, 249, 106001. [Published Version](https://www.sciencedirect.com/science/article/abs/pii/S0304407625000557)
 [Latest Draft](https://lutheryap.github.io/files/mwclus_asymptotics_mar2025.pdf) [arXiv](https://arxiv.org/abs/2301.03805) 
