@@ -13,7 +13,8 @@ I'm currently a Presidential Fellow at the Department of Economics in the Nation
 
 ## Working Papers
 
-Variance Estimation with Dependence and Heterogeneous Means (March 2026) [arxiv](https://arxiv.org/abs/2603.11497)
+Variance Estimation with Dependence and Heterogeneous Means (March 2026) 
+[Latest Draft](https://lutheryap.github.io/files/twclus_het_means_wp.pdf) [arxiv](https://arxiv.org/abs/2603.11497)
 
 Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (November 2025)
 [Latest Draft](https://lutheryap.github.io/files/manuscript_linear_estimators.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
