@@ -16,9 +16,6 @@ I'm currently a Presidential Fellow at the Department of Economics in the Nation
 Variance Estimation with Dependence and Heterogeneous Means (March 2026) 
 [Latest Draft](https://lutheryap.github.io/files/twclus_het_means_wp.pdf) [arxiv](https://arxiv.org/abs/2603.11497)
 
-Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (November 2025)
-[Latest Draft](https://lutheryap.github.io/files/manuscript_linear_estimators.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
-
 Clustering with Potential Multidimensionality: Inference and Practice 
 (with [Ruonan Xu](https://xuruonan.weebly.com/)) (October 2025)
 [Latest Draft](https://lutheryap.github.io/files/two_way_cluster_finite_pop_all.pdf) [arxiv](https://arxiv.org/abs/2411.13372) (Revise and Resubmit at Journal of Econometrics)
@@ -32,6 +29,9 @@ Two-Stage Differences in Differences
 [Latest Draft](https://lutheryap.github.io/files/2sdd.pdf)
 
 Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv](https://arxiv.org/abs/2408.11193)
+
+Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (April 2024)
+[Latest Draft](https://lutheryap.github.io/files/manuscript_linear_estimators.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
 
 The Dynamic Allocation of Public Housing: Policy and Spillovers
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (January 2024)
