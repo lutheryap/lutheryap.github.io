@@ -26,7 +26,7 @@ Build to Order: Endogenous Supply in Centralized Mechanisms
 
 Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (April 2025)
-[Latest Draft](https://lutheryap.github.io/files/2sdd.pdf)
+[Latest Draft](https://lutheryap.github.io/files/2sdd.pdf) [Appendix](https://lutheryap.github.io/files/2sdd_appendix.pdf)
 
 Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv](https://arxiv.org/abs/2408.11193)
 
