@@ -16,10 +16,6 @@ I'm currently a Presidential Fellow at the Department of Economics in the Nation
 Variance Estimation with Dependence and Heterogeneous Means (March 2026) 
 [Latest Draft](https://lutheryap.github.io/files/twclus_het_means_wp.pdf) [arxiv](https://arxiv.org/abs/2603.11497)
 
-Clustering with Potential Multidimensionality: Inference and Practice 
-(with [Ruonan Xu](https://xuruonan.weebly.com/)) (October 2025)
-[Latest Draft](https://lutheryap.github.io/files/two_way_cluster_finite_pop_all.pdf) [arxiv](https://arxiv.org/abs/2411.13372) (Revise and Resubmit at Journal of Econometrics)
-
 Build to Order: Endogenous Supply in Centralized Mechanisms
 (with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (June 2025)
 [Latest Draft](https://af-papers.s3.us-east-005.backblazeb2.com/Build+to+Order.pdf)
@@ -28,7 +24,7 @@ Two-Stage Differences in Differences
 (with [John Gardner](https://jrgcmu.github.io/), [Neil Thakral](https://neilthakral.github.io/), and [Linh To](https://linh.to/)) (April 2025)
 [Latest Draft](https://lutheryap.github.io/files/2sdd.pdf) [Appendix](https://lutheryap.github.io/files/2sdd_appendix.pdf)
 
-Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv](https://arxiv.org/abs/2408.11193)
+Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draft](https://lutheryap.github.io/files/mwiv_het_wp.pdf) [Implementation Code](https://github.com/lutheryap/mwivhet) [arXiv](https://arxiv.org/abs/2408.11193) (Revise and Resubmit at American Economic Review)
 
 Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (April 2024)
 [Latest Draft](https://lutheryap.github.io/files/manuscript_linear_estimators.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
@@ -47,6 +43,10 @@ Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](ht
 
 
 ## Publications
+
+Xu, R. and Yap, L. (2026) Clustering with Potential Multidimensionality: Inference and Practice. **Journal of Econometrics**, 258, 106321. (with [Ruonan Xu](https://xuruonan.weebly.com/))  [Published Version](https://www.sciencedirect.com/science/article/pii/S0304407626001417) [Latest Draft](https://lutheryap.github.io/files/two_way_cluster_finite_pop_all.pdf) [arxiv](https://arxiv.org/abs/2411.13372)
+
+
 Brodeur, A., Mikola, D., Cook, N. et al. (2026) Reproducibility and robustness of economics and political science research. **Nature** 652, 151–156. https://doi.org/10.1038/s41586-026-10251-x [Published Version](https://www.nature.com/articles/s41586-026-10251-x) 
 (I was a part of a large-scale collaboration)
 
