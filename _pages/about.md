@@ -29,10 +29,6 @@ Inference with Many Weak Instruments and Heterogeneity (April 2025) [Latest Draf
 Sensitivity Analysis for Linear Estimators (with [Jacob Dorn](https://jacobdorn.info/)) (April 2024)
 [Latest Draft](https://lutheryap.github.io/files/manuscript_linear_estimators.pdf) [arXiv](https://arxiv.org/abs/2309.06305)
 
-The Dynamic Allocation of Public Housing: Policy and Spillovers
-(with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (January 2024)
-[Latest Draft](https://www.econometricsociety.org/regional-activities/conference-papers/view/269/63)
-
 What to do when you can't use '1.96' Confidence Intervals for IV (with [David S. Lee](https://www.princeton.edu/~davidlee/), [Justin McCrary](https://www.law.columbia.edu/faculty/justin-mccrary), [Marcelo J. Moreira](https://sites.google.com/site/moreiramarceloj/), and [Jack R. Porter](https://users.ssc.wisc.edu/~jrporter/)) (November 2023)
 [NBER Draft](https://www.nber.org/papers/w31893) [Supplement](https://irs.princeton.edu/davidlee-supplementVTF)
 
@@ -40,6 +36,10 @@ Robust Conditional Wald Inference for Over-Identified IV (with [David S. Lee](ht
 [Draft](https://arxiv.org/abs/2311.15952)
 
 [//]: # (Valid Wald Inference with Many Weak Instruments (November 2023) [Draft](https://arxiv.org/abs/2311.15932)) 
+
+[//]: # (The Dynamic Allocation of Public Housing: Policy and Spillovers
+(with [Andrew Ferdowsian](https://ferdowsian.net/) and [Kwok-Hao Lee](https://kwokhao.io/)) (January 2024)
+[Latest Draft](https://www.econometricsociety.org/regional-activities/conference-papers/view/269/63)) 
 
 
 ## Publications
